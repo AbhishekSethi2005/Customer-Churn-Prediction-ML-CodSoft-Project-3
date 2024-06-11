@@ -1,4 +1,4 @@
-# Customer Churn Prediction - ML CodeSoft Project 3
+# Customer Churn Prediction - ML CodSoft Project 3
 This project aims to predict customer churn for a subscription-based service using various machine learning models, including Random Forest, Gradient Boosting, and Logistic Regression.
 
 ## Project Overview
